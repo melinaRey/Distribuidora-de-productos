@@ -1,3 +1,4 @@
 manzanas 
 bananas
-y muchas naranjas
+naranjas
+ya no necesitamos naranjas
