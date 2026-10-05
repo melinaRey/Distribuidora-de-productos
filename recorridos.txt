@@ -1,0 +1,3 @@
+10:00 entregar pedido en Irigoyen 1080
+10:30 entregar pedido en Avellaneda 100
+11:00 entregar pedido en colon 1100
