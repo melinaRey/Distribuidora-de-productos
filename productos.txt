@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 productos: 
 manzanas 
 bananas 
 naranjas
 y cualquier cosa para comer
 linea q tienen que tener
+=======
+Agregadas las mandarinas como nuevo product
+
+Ultima linea ingresada por supervisor
+>>>>>>> 5cded61c51635dbcf0211e1df7f43f923da47ea8
