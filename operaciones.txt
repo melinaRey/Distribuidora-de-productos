@@ -1,0 +1,10 @@
+Ventas unitarias 2}
+JP:$8.500
+FA: $8.500
+TOTAL: $17.000
+
+a cobrar 3
+JP: $45.000
+MH: $30.000
+VA: $25.000
+TOTAL: $100.000
