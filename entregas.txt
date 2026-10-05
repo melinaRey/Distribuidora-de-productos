@@ -1,9 +1,9 @@
-Entrega 1: Direccion Paz 121 No entregado (Remitente no encontrado)
+Entrega 1: Direccion Paz 245 No entregado (Remitente no encontrado)
 --Inconveniente : Cambio de Domicilio sin previo aviso.
 Entrega 2:  Direccion San Martin Entregado
 Entrega 3 :9 de Julio 243 No entregado
 Entrega 4: Direccion Paz 245 No Entregado (Remitente no encontrado)
 --Inconveniente: Producto en mal estado
-Entrega 5:  Direccion 14 de julio Entregado
+Entrega 5:  Direccion San Martin Entregado
 Entrega 6 :9 de Julio 243 No Entregado (Remitente no encontrado)
 --Inconveniente : Remitente No se encuentra en direccion especificada.
