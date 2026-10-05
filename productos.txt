@@ -15,3 +15,5 @@ Ultima linea ingresada por supervisor
 
 Nuevos Productos: Aceite de oliva y tomates. 
 >>>>>>> 0d94f1047f3056e6b286f48100163f3c54a43327
+
+Ultima linea ingresada por el vendedor
