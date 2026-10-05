@@ -1,0 +1,55 @@
+FACTURA DE VENTA
+----------------
+Número: 0001-00001234
+fecha: 05/10/2026
+
+EMPRESA: fulanito
+ROL: Vendedor
+
+CLIENTE: Federico Alberto
+Documento: Consumidor final
+
+DETALLES DE LA COMPRA
+---------------------
+
+producto    cantidad   Precio Unitario
+
+Arroz          2          $1.500
+Fideos         6          $1.000
+Aceite         1          $2.500
+
+subtotal:   $10.500
+Descuento: $0
+Total:      $10.500
+
+Medio de pago: efectivo
+Estado: Pagado
+
+
+
+FACTURA DE VENTA
+----------------
+Número: 0002-0005780
+fecha: 05/10/2026
+
+EMPRESA: fulanito
+ROL: Vendedor
+
+CLIENTE: Juan Carlos
+Documento: Consumidor final
+
+DETALLES DE LA COMPRA
+---------------------
+
+producto    cantidad   Precio Unitario
+
+Arroz          2          $1.500
+Fideos         3          $1.000
+Aceite         1          $2.500
+
+subtotal:   $8.500
+Descuento: $0
+Total:      $8.500
+
+Medio de pago: efectivo
+Estado: Pagado

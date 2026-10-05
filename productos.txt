@@ -1,2 +1,24 @@
+<<<<<<< HEAD
 Nuevos Productos: Aceite de olvia, Tomate enlatado , Atun
 Prohibido el reparto de los siguientes productos...
+=======
+<<<<<<< HEAD
+productos: 
+manzanas 
+bananas 
+naranjas
+y cualquier cosa para comer
+linea q tienen que tener
+=======
+Agregadas las mandarinas como nuevo product
+
+Ultima linea ingresada por supervisor
+<<<<<<< HEAD
+>>>>>>> 5cded61c51635dbcf0211e1df7f43f923da47ea8
+=======
+
+Nuevos Productos: Aceite de oliva y tomates. 
+>>>>>>> 0d94f1047f3056e6b286f48100163f3c54a43327
+
+Ultima linea ingresada por el vendedor
+>>>>>>> 5fde84b3c91faf6eeab47427a14bea6cd080f54f
