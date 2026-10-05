@@ -1,6 +1,6 @@
-10:00 entregar pedido en Irigoyen 1080
-10:30 entregar pedido en Avellaneda 100
-11:00 entregar pedido en colon 1100
+10:00 entregar pedido en Irigoyen 1080 --> entregado
+10:30 entregar pedido en Avellaneda 100 --> no habia nadie
+11:00 entregar pedido en colon 1100 --> entregado
 
-13:00 entregar a Monica en españa 1000
-13:40 entregar pedido en San Martin 1534
+13:00 entregar a Monica en españa 1000 --> entregado
+13:40 entregar pedido en San Martin 1534 --> no habia nadie
